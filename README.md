@@ -9,7 +9,7 @@ In these labs, you will gain a comprehensive understanding of machine learning a
 -   **Lab 3**: Feature Engineering: How can we make our model better?
 -   **Lab 4**: Unsupervised methods: What if we do not have training data?
 
-*(Introductory Presentation)[https://dritauma-nu.github.io/machine-learning/introductory-presentation.html#1]* 
+*(Introductory Presentation)[https://nasimm48.github.io/machine-learning/introductory-presentation.html#1]* 
 
 **Machine Learning Learning Lab 1: Prediction**
 
@@ -33,6 +33,6 @@ The previous three learning labs involved the use of data with known outcome var
 
 ###### Credits: Materials adapted from [LASER Institute](https://github.com/laser-institute).
 
-[Dr. Mighty Itauma](https://linkedin.com/in/amightyo)  
-Professor & Division Chair  
+[Dr. Mohammad Nasim]([https://linkedin.com/in/amightyo](https://www.linkedin.com/in/dr-mohammad-nasim-28993040/))  
+Adjunct Professor Machine Learning
 ![Northwood-270x110](https://github.com/DrItauma-NU/machine-learning/assets/609418/d7d1ec53-8969-4da7-950e-fc379172b802)
